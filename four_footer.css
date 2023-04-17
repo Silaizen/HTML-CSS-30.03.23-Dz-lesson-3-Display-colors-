@@ -1,0 +1,74 @@
+.separator {
+  margin-top: 30px;
+  width: 1200px;
+}
+.column_style {
+  gap: 15px;
+  align-items: start;
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+}
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+  max-width: 1170px;
+  margin: 0 auto;
+  padding-top: 100px;
+  justify-content: space-around;
+}
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+.image-edit {
+  height: 64px;
+  width: 64px;
+  cursor: pointer;
+}
+.image-Facebook {
+  position: relative;
+  right: 30px;
+  top: 110px;
+  background: url(images/fb_gray.png);
+}
+.image-Facebook:hover {
+  background: url(images/fb.png);
+}
+.image-Instagram {
+  position: relative;
+  left: 30px;
+  top: 110px;
+  background: url(images/insta_gray.png);
+}
+.image-Instagram:hover {
+  background: url(images/insta.png);
+}
+.image-YouTube {
+  position: relative;
+  left: 95px;
+  bottom: -109px;
+  background: url(images/youtube_gray.png);
+}
+.image-YouTube:hover {
+  background: url(images/youtube.png);
+}
+img:hover {
+  cursor: pointer;
+}
+.image-container {
+  display: flex;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  position: relative;
+  bottom: 300px;
+  left: 320px;
+}
