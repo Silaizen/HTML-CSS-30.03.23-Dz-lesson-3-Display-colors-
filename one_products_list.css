@@ -14,37 +14,6 @@ body {
   align-items: center;
 }
 
-.paper {
-  list-style-image: url(images/Papper.png);
-}
-.Apple {
-  list-style-image: url(images/Apple.png);
-}
-.cheese {
-  list-style-image: url(images/cheese.png);
-}
-.Com {
-  list-style-image: url(images/Com.png);
-}
-.coriander {
-  list-style-image: url(images/coriander.png);
-}
-.fish {
-  list-style-image: url(images/fish.png);
-}
-.garlic {
-  list-style-image: url(images/garlic.png);
-}
-.grib {
-  list-style-image: url(images/Grib.png);
-}
-.egg {
-  list-style-image: url(images/egg.png);
-}
-.Beef {
-  list-style-image: url(images/Beef.png);
-}
-
 .div-item-container {
   margin-left: 20px;
   margin-top: 20px;
